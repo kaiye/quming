@@ -4,6 +4,7 @@ let SearchSong = require('./index');
 
 describe('function test', function() {
     describe('SearchSong()', function() {
+        this.timeout(10000);
         it('should return array which is not empty', function() {
             return SearchSong({
                 text: '一',
