@@ -7,6 +7,7 @@ let $ = require('cheerio');
 function sendRequest(url) {
   let response = request({
     uri: url,
+    timeout: 5000,
     method: 'GET'
   });
   return response.then( (req) =>{
