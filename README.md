@@ -1,4 +1,4 @@
-# 取名辅助 [![Build Status](https://travis-ci.org/kaiye/quming.svg?branch=master)](https://travis-ci.org/kaiye/quming)
+# 取名神器 [![Build Status](https://travis-ci.org/kaiye/quming.svg?branch=master)](https://travis-ci.org/kaiye/quming)
 
 国家开放二胎了你造吗？ (⊙ˍ⊙)
 
